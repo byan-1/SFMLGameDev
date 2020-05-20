@@ -1,0 +1,6 @@
+examples/
+.vscode/
+src/build/
+src/bin
+src/run.sh
+assets/
